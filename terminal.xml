@@ -2,5 +2,6 @@
   <component name="TerminalOptionsProvider">
     <option name="myCopyOnSelection" value="false" />
     <option name="myOverrideIdeShortcuts" value="false" />
+    <option name="myShellPath" value="/bin/zsh" />
   </component>
 </application>
