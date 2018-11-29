@@ -1,0 +1,7 @@
+<templateSet group="Vue">
+  <template name="new vue" value="&lt;template&gt;&#10;    &lt;div&gt;&lt;!-- --&gt;&lt;/div&gt;&#10;&lt;/template&gt;&#10;&lt;script type=&quot;text/babel&quot;&gt;&#10;export default {}&#10;&lt;/script&gt;&#10;&lt;style lang=&quot;scss&quot;&gt;&lt;/style&gt;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+</templateSet>
