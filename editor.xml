@@ -1,4 +1,9 @@
 <application>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc, *.vue, *.js, *.twig, *.html, *.jsx" />
+    <option name="IS_ALL_SOFTWRAPS_SHOWN" value="true" />
+  </component>
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_FUNCTION_BODY" value="true" />
     <option name="COLLAPSE_METHOD_BODY" value="true" />
