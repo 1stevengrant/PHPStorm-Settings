@@ -1,0 +1,8 @@
+<templateSet group="PHP">
+  <template name="testmethod" value="/** @test */&#10;public function $method$()&#10;{&#10;    &#10;}" description="Creates a test method" toReformat="false" toShortenFQNames="true">
+    <variable name="method" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
