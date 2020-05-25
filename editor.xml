@@ -1,7 +1,7 @@
 <application>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
-    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc; *.vue; *.js; *.twig; *.html; *.jsx; *.css; *.scss; *.mjml; *.log; *.blade.php; *.php; *.json;" />
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc; *.vue; *.js; *.twig; *.html; *.jsx; *.css; *.scss; *.mjml; *.log; *.blade.php; *.php; *.json; *.yaml;" />
     <option name="IS_ALL_SOFTWRAPS_SHOWN" value="true" />
   </component>
   <component name="PhpCodeFoldingSettings">
