@@ -1,11 +1,15 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="highContrast" value="true" />
     <option name="highlightColorEnabled" value="true" />
     <option name="isHighlightColorEnabled" value="true" />
+    <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="accentColor" value="2aa298" />
+    <option name="pristineConfig" value="false" />
+    <option name="settingsSelectedTab" value="5" />
+    <option name="accentColor" value="ab47bc" />
     <option name="highlightColor" value="80cbc4" />
-    <option name="selectedTheme" value="LIGHT_OWL" />
+    <option name="selectedTheme" value="CUSTOM" />
     <option name="userId" value="b82efb5:167c0bae753:-7fff" />
     <option name="version" value="5.2.0" />
   </component>
