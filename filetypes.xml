@@ -4,6 +4,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping ext="rss" type="PLAIN_TEXT" />
       <mapping ext="church" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
     </extensionMap>
