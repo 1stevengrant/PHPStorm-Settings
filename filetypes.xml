@@ -7,6 +7,8 @@
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="church" type="PLAIN_TEXT" />
       <mapping ext="rss" type="Twig" />
+      <removed_mapping ext="xsl" approved="true" type="XML" />
+      <removed_mapping ext="xsl" approved="true" type="XML" />
       <removed_mapping ext="rss" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
