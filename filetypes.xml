@@ -1,17 +1,18 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="mjml" type="HTML" />
+      <mapping pattern=".php_cs" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="com" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="church" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping pattern=".xml" type="Twig" />
       <mapping pattern=".xsl" type="Twig" />
       <mapping ext="rss" type="Twig" />
-      <removed_mapping ext="xml" approved="true" type="XML" />
       <removed_mapping ext="xslt" approved="true" type="XML" />
       <removed_mapping ext="xsl" approved="true" type="XML" />
+      <removed_mapping ext="xml" approved="true" type="XML" />
       <removed_mapping ext="xsl" approved="true" type="XML" />
       <removed_mapping ext="rss" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="xml" approved="true" type="XML" />
