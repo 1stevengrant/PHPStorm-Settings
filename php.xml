@@ -1,17 +1,17 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="f8bc3e3d-6331-4d3b-8755-c49394e8230f" name="PHP 7.4" home="/usr/local/Cellar/php/7.4.6_1/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="25f8f059-654c-45af-b8e6-bf0a946c39ea" name="PHP 7.4" home="/usr/local/Cellar/php/7.4.10/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.4">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/7.4.6_1/bin/php-cgi" php_cli="/usr/local/Cellar/php/7.4.6_1/bin/php" path_separator=":" version="7.4.6">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/7.4.10/bin/php-cgi" php_cli="/usr/local/Cellar/php/7.4.10/bin/php" path_separator=":" version="7.4.10">
           <additional_php_ini>/usr/local/etc/php/7.4/conf.d/ext-opcache.ini, /usr/local/etc/php/7.4/conf.d/php-memory-limits.ini</additional_php_ini>
           <configuration_file>/usr/local/etc/php/7.4/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/7.4.6_1/share/php/pear" />
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/7.4.10/share/php/pear" />
           </configuration_options>
           <debuggers />
           <loaded_extensions>
@@ -41,7 +41,6 @@
             <extension name="gmp" />
             <extension name="hash" />
             <extension name="iconv" />
-            <extension name="imagick" />
             <extension name="intl" />
             <extension name="json" />
             <extension name="ldap" />
@@ -62,7 +61,6 @@
             <extension name="posix" />
             <extension name="pspell" />
             <extension name="readline" />
-            <extension name="redis" />
             <extension name="session" />
             <extension name="shmop" />
             <extension name="soap" />
