@@ -7,6 +7,7 @@
       <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="church" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping pattern=".xml" type="Twig" />
       <mapping pattern=".xsl" type="Twig" />
       <mapping ext="rss" type="Twig" />
