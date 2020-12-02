@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="php/Dockerfile" type="Dockerfile" />
       <mapping ext="mjml" type="HTML" />
@@ -12,12 +12,9 @@
       <mapping ext="church" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
-      <removed_mapping ext="xml" approved="true" type="XML" />
-      <removed_mapping ext="xslt" approved="true" type="XML" />
-      <removed_mapping ext="xsl" approved="true" type="XML" />
-      <removed_mapping ext="xsl" approved="true" type="XML" />
       <removed_mapping ext="rss" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="xml" approved="true" type="XML" />
+      <removed_mapping ext="xsl" approved="true" type="XML" />
       <removed_mapping ext="xslt" approved="true" type="XML" />
     </extensionMap>
   </component>
