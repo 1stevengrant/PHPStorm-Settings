@@ -120,8 +120,8 @@
         <entry key="*.conf">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.jetbrains.php" />
-              <option name="myPluginName" value="PHP" />
+              <option name="myPluginId" value="dev.meanmail.plugin.nginx-intellij-plugin" />
+              <option name="myPluginName" value="Nginx Configuration" />
             </plugin>
           </value>
         </entry>
@@ -630,6 +630,14 @@
             <plugin>
               <option name="myPluginId" value="com.jetbrains.php" />
               <option name="myPluginName" value="PHP" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.nginx">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="dev.meanmail.plugin.nginx-intellij-plugin" />
+              <option name="myPluginName" value="Nginx Configuration" />
             </plugin>
           </value>
         </entry>
@@ -1459,6 +1467,14 @@
               <option name="myPluginId" value="Lombook Plugin" />
               <option name="myPluginName" value="Lombok" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="nginx.conf">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="dev.meanmail.plugin.nginx-intellij-plugin" />
+              <option name="myPluginName" value="Nginx Configuration" />
             </plugin>
           </value>
         </entry>
