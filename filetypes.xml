@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="php/Dockerfile" type="Dockerfile" />
       <mapping ext="mjml" type="HTML" />
+      <mapping ext="conf" type="Nginx Configuration" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern="home/index" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
@@ -14,6 +15,7 @@
       <mapping ext="church" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
+      <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
       <removed_mapping ext="rss" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="xml" approved="true" type="XML" />
       <removed_mapping ext="xsl" approved="true" type="XML" />

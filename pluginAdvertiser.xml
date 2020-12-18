@@ -120,8 +120,8 @@
         <entry key="*.conf">
           <value>
             <plugin>
-              <option name="myPluginId" value="dev.meanmail.plugin.nginx-intellij-plugin" />
-              <option name="myPluginName" value="Nginx Configuration" />
+              <option name="myPluginId" value="com.jetbrains.php" />
+              <option name="myPluginName" value="PHP" />
             </plugin>
           </value>
         </entry>
