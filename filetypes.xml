@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping pattern="php/Dockerfile" type="Dockerfile" />
       <mapping ext="mjml" type="HTML" />
-      <mapping ext="conf" type="Nginx Configuration" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern="home/index" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
