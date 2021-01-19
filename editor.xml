@@ -6,6 +6,7 @@
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc; *.vue; *.json; *.blade.php; *.antlers.html; *.twig; *.scss; *.css; *.yaml; *.yml; *.js; *.php; *.log; *.env; *.sh; Dockerfile; *.html; *.conf; *.example; *.svg; .editorconfig" />
+    <option name="SMART_HOME" value="false" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
 </application>
