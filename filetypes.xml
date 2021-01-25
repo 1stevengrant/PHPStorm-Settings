@@ -3,12 +3,10 @@
     <extensionMap>
       <mapping pattern="php/Dockerfile" type="Dockerfile" />
       <mapping ext="mjml" type="HTML" />
-      <mapping ext="graphqlconfig" type="JSON" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern="home/index" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs" type="PLAIN_TEXT" />
-      <mapping ext="neon" type="PLAIN_TEXT" />
       <mapping ext="yam;" type="PLAIN_TEXT" />
       <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
