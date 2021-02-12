@@ -294,6 +294,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.gitignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Git4Idea" />
+              <option name="myPluginName" value="Git" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.gql">
           <value>
             <plugin>
@@ -1488,6 +1497,15 @@
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="exclude">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Git4Idea" />
+              <option name="myPluginName" value="Git" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
