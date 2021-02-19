@@ -629,6 +629,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.kql">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.elasticsearch4idea" />
+              <option name="myPluginName" value="Elasticsearch" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.markdown">
           <value>
             <plugin>
