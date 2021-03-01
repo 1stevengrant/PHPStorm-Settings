@@ -3,7 +3,7 @@
     <extensionMap>
       <mapping pattern="php/Dockerfile" type="Dockerfile" />
       <mapping ext="mjml" type="HTML" />
-      <removed_mapping ext="graphqlconfig" type="JSON" />
+      <mapping ext="graphqlconfig" type="JSON" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern="home/index" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
